@@ -2,7 +2,7 @@
 
 Build and deploy a professional **AI-powered** resume builder using **Next.js 15**, **Gemini-AI**, and **Stripe Checkout**.  
 
-![Thumbnail]()
+![Thumbnail](https://github.com/yashng7/resume-ai/blob/main/public/thumbnail.png)
 
 ## ✨ Features  
 ✅ Multi-step form with **React Hook Form**  
